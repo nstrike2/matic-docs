@@ -24,6 +24,7 @@ All the network related details can be found in [network docs](/docs/develop/net
 
 - Setup [Metamask Wallet](/docs/develop/metamask/hello) or [Arkane Wallet](/docs/develop/wallets/arkane/intro)
 - Deploy your Contracts on Polygon 
+    - [Using Alchemy](/docs/develop/alchemy)
     - [Using Remix](/docs/develop/remix)
     - [Using Truffle](/docs/develop/truffle)
     - [Using Hardhat](/docs/develop/hardhat)
