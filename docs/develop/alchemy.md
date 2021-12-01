@@ -178,9 +178,11 @@ Open up the hello-world project in your favorite editor (we like [VSCode](https:
 2. Below is a sample Hello World smart contract from the [Ethereum Foundation](https://ethereum.org/en/) that we will be using for this tutorial. Copy and paste in the contents below into your `HelloWorld.sol file`, and be sure to read the comments to understand what this contract does:
 
 ```
+// SPDX-License-Identifier: None
+
 // Specifies the version of Solidity, using semantic versioning.
 // Learn more: https://solidity.readthedocs.io/en/v0.5.10/layout-of-source-files.html#pragma
-pragma solidity >=0.7.3;
+pragma solidity >=0.8.9;
 
 // Defines a contract named `HelloWorld`.
 // A contract is a collection of functions and data (its state). Once deployed, a contract resides at a specific address on the Ethereum blockchain. Learn more: https://solidity.readthedocs.io/en/v0.5.10/structure-of-a-contract.html
@@ -232,6 +234,8 @@ Then, create a `.env` file in the root directory of our project, and add your Me
 Your environment file must be named `.env` or it won't be recognized as an environment file.
 
 Do not name it `process.env` or `.env-custom` or anything else.
+
+WARNING: If you are using version control system like git to manage your project, please DO NOT track the .env file. Add .env to your .gitignore file so that you don't accidentally publish your secrets to the world
 
 * Follow [these instructions](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key) to export your private key
 * See below to get HTTP Alchemy API URL
