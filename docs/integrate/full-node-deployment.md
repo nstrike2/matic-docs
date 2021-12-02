@@ -190,7 +190,7 @@ In case your Bor node has stopped syncing, you can add additional bootnodes to y
 - Ports / Firewall configuration
     - Open ports 22, 26656 and 30303 to world (0.0.0.0/0) on node firewall. All other ports should be closed.
 
-# Full Node Access (via Alchemy)
+## Full Node Access (via Alchemy)
   1. Visit Alchemy.com and sign up for a free account
   2. Get your private key and API endpoint
   3. Use your Alchemy account to access Polygon Mumbai Testnet
@@ -351,7 +351,7 @@ You have to follow the exact outlined sequence of actions, otherwise you will ru
 - Ports / Firewall configuration
     - Open ports 22, 26656 and 30303 to world (0.0.0.0/0) on node firewall. All other ports should be closed.
 
-# Full Node Access (via Alchemy)
+## Full Node Access (via Alchemy)
   1. Visit Alchemy.com and sign up for a free account
   2. Get your private key and API endpoint
   3. Use your Alchemy account to access Polygon Mainnet
