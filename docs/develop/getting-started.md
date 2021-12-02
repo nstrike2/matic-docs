@@ -108,6 +108,7 @@ All the network related details can be found in [network docs](/docs/develop/net
 
 - [CryptoZombies](https://cryptozombies.io/)
 - [Full stack dapp tutorial series](https://kauri.io/#collections/Full%20Stack%20dApp%20Tutorial%20Series/full-stack-dapp-tutorial-series-intro/)
+- [Alchemy (Blockchain APIs and Developer Tools)](https://alchemy.com/?a=polygon-docs) (Recommended)
 - [Infura Docs](https://infura.io/docs)
 - [Truffle Suite Docs](https://www.trufflesuite.com/docs) (Recommended)
 - [Truffle tutorial](https://www.trufflesuite.com/tutorial) (Recommended)
@@ -123,6 +124,8 @@ All the network related details can be found in [network docs](/docs/develop/net
 ### **Learn the Basics of Development**
 
 - [Full stack dapp tutorial series](https://kauri.io/#collections/Full%20Stack%20dApp%20Tutorial%20Series/full-stack-dapp-tutorial-series-intro/)
+- [Hello World Smart Contract](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract)
+- [How to Create an NFT](https://docs.alchemy.com/alchemy/tutorials/how-to-create-an-nft)
 - [Truffle tutorial](https://www.trufflesuite.com/tutorial)
 - [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 - [ConsenSys Academy Developer Program On-Demand course](https://consensys.net/academy/ondemand/)
