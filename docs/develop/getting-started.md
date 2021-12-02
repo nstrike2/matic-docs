@@ -162,6 +162,7 @@ Twitter:
 
 - [Bankless: How to Use Crypto Twitter](https://bankless.substack.com/p/how-to-use-crypto-twitter-to-level-77c)
 - [EthHub](https://twitter.com/ethhub_io)
+- [Alchemy](https://twitter.com/AlchemyPlatform)
 - [CodeFi](https://twitter.com/ConsenSysCodefi)
 - [ConsenSys Labs](https://twitter.com/ConsenSys)
 - [Universal Login](https://twitter.com/unilogin)
@@ -185,6 +186,7 @@ Twitter:
 ### **Newsletters**
 
 - [Week In Ethereum](https://weekinethereumnews.com/)
+- [Alchemy: Supercharged](https://www.alchemy.com/newsletter)
 - [EthHub](https://ethhub.io/)
 - [Chain Letter](https://forms.technologyreview.com/chain-letter/)
 - [ConsenSys Newsletter Digest](https://share.hsforms.com/1HiFwsb55S5GUf-EOe0KP8Q2urwb?email=)
