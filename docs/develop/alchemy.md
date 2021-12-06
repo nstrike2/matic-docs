@@ -43,7 +43,7 @@ You can download and create a Metamask account for free [here](https://metamask.
 2. Select “Networks” from the menu to the left.
 3. Connect your wallet to the Mumbai Testnet using the following parameters.
 
-    #### Network Name: Polygon Testnet
+    #### Network Name: Polygon Mumbai Testnet
     
     #### New RPC URL: https://rpc-mumbai.maticvigil.com/
     
