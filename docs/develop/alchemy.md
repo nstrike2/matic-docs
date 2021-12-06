@@ -37,6 +37,8 @@ Click “Create app” and that’s it! Your app should appear in the table belo
 
 Since Polygon is a Layer-2 scaling solution for Ethereum, we need to get an Ethereum wallet and add a custom Polygon URL to send and receive transactions on the Polygon network. For this tutorial, we’ll use Metamask, a virtual wallet in the browser used to manage your wallet address. If you want to understand more about how transactions on Ethereum work, check out [this page](https://ethereum.org/en/developers/docs/transactions/) from the Ethereum foundation.
 
+To get your customer Polygon RPC URL from Alchemy, go to your "Hello World" app in your Alchemy dashboard and click "View Key" in the top right corner. Then go ahead and copy your Alchemy HTTP API key!
+
 You can download and create a Metamask account for free [here](https://metamask.io/download.html). Once you've created an account, follow these steps to set up the Polygon network on your wallet.
 
 1. Select “Settings” from the drop down menu on the top right corner of your Metamask wallet.
@@ -45,7 +47,7 @@ You can download and create a Metamask account for free [here](https://metamask.
 
     #### Network Name: Polygon Mumbai Testnet
     
-    #### New RPC URL: https://rpc-mumbai.maticvigil.com/
+    #### New RPC URL: https://polygon-mumbai.g.alchemy.com/v2/your-api-key
     
     #### ChainID: 80001
     
@@ -238,7 +240,7 @@ Do not name it `process.env` or `.env-custom` or anything else.
 WARNING: If you are using version control system like git to manage your project, please DO NOT track the .env file. Add .env to your .gitignore file so that you don't accidentally publish your secrets to the world
 
 * Follow [these instructions](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key) to export your private key
-* See below to get HTTP Alchemy API URL
+* To get your Alchemy HTTP API Key (RPC URL), go to your "Hello World" app in your Alchemy dashboard and click "View Key" in the top right corner. Then go ahead and copy your Alchemy HTTP API key!
 
 Your `.env` should look like this:
 
